@@ -64,7 +64,7 @@
 }
 .goods-price {
   font-size:26rpx;
-  width:720rpx;
+  width:620rpx;
   text-align: right;
   margin-bottom:30rpx;
 }

@@ -71,6 +71,7 @@ App({
         })
         
       }
+      wx.setStorageSync('mallName','代购巨鳄')
     })
     // 读取评价赠送多少积分
     WXAPI.scoreRules({
